@@ -1,0 +1,139 @@
+{
+  "squadre": [
+    {
+      "nome": "Juventus",
+      "city": "Torino",
+      "stadio": "Allianz Stadium",
+      "anno_fondazione": 1897,
+      "allenatore": "Massimiliano Allegri",
+      "presidente": "Andrea Agnelli",
+      "valore_squadra": "1,3 miliardi di euro",
+      "titoli": {
+        "campionati": 36,
+        "coppe_italia": 14,
+        "coppe_europee": 2
+      },
+      "logo": "../src/image/juve.jpg"
+    },
+    {
+      "nome": "Milan",
+      "city": "Milano",
+      "stadio": "San Siro",
+      "anno_fondazione": 1899,
+      "allenatore": "Stefano Pioli",
+      "presidente": "Paolo Scaroni",
+      "valore_squadra": "780 milioni di euro",
+      "titoli": {
+        "campionati": 18,
+        "coppe_italia": 5,
+        "coppe_europee": 7
+      },
+      "logo": "../src/image/milan.jpg"
+    },
+    {
+      "nome": "Inter",
+      "city": "Milano",
+      "stadio": "San Siro",
+      "anno_fondazione": 1908,
+      "allenatore": "Simone Inzaghi",
+      "presidente": "Steven Zhang",
+      "valore_squadra": "1,1 miliardi di euro",
+      "titoli": {
+        "campionati": 19,
+        "coppe_italia": 7,
+        "coppe_europee": 5
+      },
+      "logo": "../src/image/inter.jpg"
+    },
+    {
+      "nome": "Napoli",
+      "city": "Napoli",
+      "stadio": "Stadio Diego Armando Maradona",
+      "anno_fondazione": 1926,
+      "allenatore": "Luciano Spalletti",
+      "presidente": "Aurelio De Laurentiis",
+      "valore_squadra": "560 milioni di euro",
+      "titoli": {
+        "campionati": 2,
+        "coppe_italia": 6,
+        "coppe_europee": 0
+      },
+      "logo": "../src/image/napoli.jpg"
+    },
+    {
+      "nome": "Atalanta",
+      "city": "Bergamo",
+      "stadio": "Gewiss Stadium",
+      "anno_fondazione": 1907,
+      "allenatore": "Gian Piero Gasperini",
+      "presidente": "Antonio Percassi",
+      "valore_squadra": "460 milioni di euro",
+      "titoli": {
+        "campionati": 0,
+        "coppe_italia": 1,
+        "coppe_europee": 0
+      },
+      "logo": "../src/image/atalanta.png"
+    },
+    {
+      "nome": "Sassuolo",
+      "city": "Sassuolo",
+      "stadio": "Mapei Stadium - city del Tricolore",
+      "anno_fondazione": 1922,
+      "allenatore": "Alessio Dionisi",
+      "presidente": "Carlo Rossi",
+      "valore_squadra": "120 milioni di euro",
+      "titoli": {
+        "campionati": 0,
+        "coppe_italia": 0,
+        "coppe_europee": 0
+      },
+      "logo": "../src/image/sassuolo.jpg"
+    },
+    {
+      "nome": "Verona",
+      "city": "Verona",
+      "stadio": "Stadio Marc'Antonio Bentegodi",
+      "anno_fondazione": 1903,
+      "allenatore": "Eusebio Di Francesco",
+      "presidente": "Maurizio Setti",
+      "valore_squadra": "80 milioni di euro",
+      "titoli": {
+        "campionati": 1,
+        "coppe_italia": 0,
+        "coppe_europee": 0
+      },
+      "logo": "../src/image/verona.jpg"
+    },
+    {
+      "nome": "Genoa",
+      "city": "Genova",
+      "stadio": "Stadio Luigi Ferraris",
+      "anno_fondazione": 1893,
+      "allenatore": "Davide Ballardini",
+      "presidente": "Enrico Preziosi",
+      "valore_squadra": "50 milioni di euro",
+      "titoli": {
+        "campionati": 9,
+        "coppe_italia": 1,
+        "coppe_europee": 0
+      },
+      "logo": "../src/image/genova.png"
+    },
+    {
+      "nome": "Roma",
+      "city": "Roma",
+      "stadio": "Stadio Olimpico",
+      "anno_fondazione": 1927,
+      "allenatore": "José Mourinho",
+      "presidente": "Dan Friedkin",
+      "valore_squadra": "580 milioni di euro",
+      "titoli": {
+        "campionati": 3,
+        "coppe_italia": 9,
+        "coppe_europee": 0
+      },
+      "logo": "../src/image/roma.png"
+    }
+  ]
+}
