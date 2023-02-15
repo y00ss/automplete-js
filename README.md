@@ -25,6 +25,6 @@ Per compilare un file di stile rimando alla pagina d'installazione e compilazion
 Lanciare in un browser compatibile il file `index.html`
 
 
-## FontE dati:
+## Fonte dati:
 
 - ChatGPT
